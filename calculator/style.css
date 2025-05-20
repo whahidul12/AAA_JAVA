@@ -9,3 +9,8 @@
     width: 30rem;
     background-color: aqua;
 }
+input {
+    height: 3rem;
+    width: 3rem;
+    margin: 0px;
+}
